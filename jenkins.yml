@@ -10,8 +10,8 @@ services:
       - redis
 
   dnmonster:
-    image: amouat/dnmonster:1.0
+    image: amouat/dnmonster:1.1
 
   redis:
-    image: redis:3.0
+    image: redis:3.19
 
