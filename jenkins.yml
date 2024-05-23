@@ -13,5 +13,5 @@ services:
     image: amouat/dnmonster:1.1
 
   redis:
-    image: redis:3.19
+    image: redis:alpine3.19
 
